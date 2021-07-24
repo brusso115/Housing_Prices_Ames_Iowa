@@ -81,7 +81,7 @@ LandSlope: Slope of property
 Neighborhood: Physical locations within Ames city limits
 
        Blmngtn	Bloomington Heights
-       Blueste	Bluestem
+       Bluestem
        BrDale	Briardale
        BrkSide	Brookside
        ClearCr	Clear Creek
